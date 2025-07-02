@@ -1,0 +1,201 @@
+order_id,customer_id,order_date,product_id,product_name,quantity,unit_price,total_amount,payment_method,shipping_status
+1001,1,2022-02-10,P001,Wireless Headphones,1,99.99,99.99,Credit Card,Delivered
+1002,2,2022-02-12,P002,Smart Watch,1,199.99,199.99,PayPal,Delivered
+1003,3,2022-02-15,P003,Bluetooth Speaker,2,59.99,119.98,Credit Card,Delivered
+1004,1,2022-03-05,P004,Phone Case,3,19.99,59.97,Debit Card,Delivered
+1005,4,2022-03-10,P005,Wireless Charger,1,29.99,29.99,PayPal,Delivered
+1006,5,2022-03-12,P006,Tablet Stand,2,24.99,49.98,Credit Card,Delivered
+1007,6,2022-03-18,P007,USB-C Cable,5,9.99,49.95,Debit Card,Delivered
+1008,7,2022-03-20,P008,Power Bank,1,49.99,49.99,Credit Card,Delivered
+1009,8,2022-03-22,P009,Screen Protector,2,14.99,29.98,PayPal,Delivered
+1010,9,2022-03-25,P010,Earbuds,1,79.99,79.99,Credit Card,Delivered
+1011,10,2022-03-28,P011,Fitness Tracker,1,89.99,89.99,Debit Card,Delivered
+1012,11,2022-04-02,P012,Smart Bulb,3,24.99,74.97,Credit Card,Delivered
+1013,12,2022-04-05,P013,External SSD,1,129.99,129.99,PayPal,Delivered
+1014,13,2022-04-08,P014,Wireless Mouse,2,34.99,69.98,Credit Card,Delivered
+1015,14,2022-04-10,P015,Mechanical Keyboard,1,109.99,109.99,Debit Card,Delivered
+1016,15,2022-04-12,P016,Monitor Stand,1,59.99,59.99,Credit Card,Delivered
+1017,16,2022-04-15,P017,Webcam,1,79.99,79.99,PayPal,Delivered
+1018,17,2022-04-18,P018,Noise Cancelling Headphones,1,299.99,299.99,Credit Card,Delivered
+1019,18,2022-04-20,P019,Smart Plug,4,19.99,79.96,Debit Card,Delivered
+1020,19,2022-04-22,P020,HDMI Cable,2,14.99,29.98,Credit Card,Delivered
+1021,20,2022-04-25,P021,Wireless Earbuds,1,129.99,129.99,PayPal,Delivered
+1022,21,2022-04-28,P022,Portable Monitor,1,249.99,249.99,Credit Card,Delivered
+1023,22,2022-05-02,P023,Gaming Mouse,1,69.99,69.99,Debit Card,Delivered
+1024,23,2022-05-05,P024,Laptop Sleeve,1,39.99,39.99,Credit Card,Delivered
+1025,24,2022-05-08,P025,USB Hub,2,29.99,59.98,PayPal,Delivered
+1026,25,2022-05-10,P026,Wireless Keyboard,1,59.99,59.99,Credit Card,Delivered
+1027,26,2022-05-12,P027,Smart Scale,1,49.99,49.99,Debit Card,Delivered
+1028,27,2022-05-15,P028,Desk Lamp,1,39.99,39.99,Credit Card,Delivered
+1029,28,2022-05-18,P029,Phone Mount,3,12.99,38.97,PayPal,Delivered
+1030,29,2022-05-20,P030,Bluetooth Adapter,1,19.99,19.99,Credit Card,Delivered
+1031,30,2022-05-22,P031,External HDD,1,89.99,89.99,Debit Card,Delivered
+1032,31,2022-05-25,P032,Wireless Presenter,1,29.99,29.99,Credit Card,Delivered
+1033,32,2022-05-28,P033,Smart Doorbell,1,199.99,199.99,PayPal,Delivered
+1034,33,2022-06-02,P034,VR Headset,1,349.99,349.99,Credit Card,Delivered
+1035,34,2022-06-05,P035,Graphic Tablet,1,149.99,149.99,Debit Card,Delivered
+1036,35,2022-06-08,P036,Docking Station,1,119.99,119.99,Credit Card,Delivered
+1037,36,2022-06-10,P037,Smart Thermostat,1,249.99,249.99,PayPal,Delivered
+1038,37,2022-06-12,P038,Wireless Charging Pad,2,34.99,69.98,Credit Card,Delivered
+1039,38,2022-06-15,P039,Portable Speaker,1,79.99,79.99,Debit Card,Delivered
+1040,39,2022-06-18,P040,Action Camera,1,199.99,199.99,Credit Card,Delivered
+1041,40,2022-06-20,P041,Smart Lock,1,229.99,229.99,PayPal,Delivered
+1042,41,2022-06-22,P042,Electric Scooter,1,499.99,499.99,Credit Card,Delivered
+1043,42,2022-06-25,P043,Drone,1,399.99,399.99,Debit Card,Delivered
+1044,43,2022-06-28,P044,3D Printer,1,799.99,799.99,Credit Card,Delivered
+1045,44,2022-07-02,P045,Robot Vacuum,1,299.99,299.99,PayPal,Delivered
+1046,45,2022-07-05,P046,Smart Mirror,1,199.99,199.99,Credit Card,Delivered
+1047,46,2022-07-08,P047,Air Purifier,1,179.99,179.99,Debit Card,Delivered
+1048,47,2022-07-10,P048,Smart Display,1,149.99,149.99,Credit Card,Delivered
+1049,48,2022-07-12,P049,Wireless Security Camera,2,129.99,259.98,PayPal,Delivered
+1050,49,2022-07-15,P050,Fitness Smartwatch,1,179.99,179.99,Credit Card,Delivered
+1051,50,2022-07-18,P001,Wireless Headphones,1,99.99,99.99,Debit Card,Delivered
+1052,1,2022-07-20,P002,Smart Watch,1,199.99,199.99,Credit Card,Delivered
+1053,2,2022-07-22,P003,Bluetooth Speaker,1,59.99,59.99,PayPal,Delivered
+1054,3,2022-07-25,P004,Phone Case,2,19.99,39.98,Credit Card,Delivered
+1055,4,2022-07-28,P005,Wireless Charger,2,29.99,59.98,Debit Card,Delivered
+1056,5,2022-08-02,P006,Tablet Stand,1,24.99,24.99,Credit Card,Delivered
+1057,6,2022-08-05,P007,USB-C Cable,3,9.99,29.97,PayPal,Delivered
+1058,7,2022-08-08,P008,Power Bank,1,49.99,49.99,Credit Card,Delivered
+1059,8,2022-08-10,P009,Screen Protector,1,14.99,14.99,Debit Card,Delivered
+1060,9,2022-08-12,P010,Earbuds,2,79.99,159.98,Credit Card,Delivered
+1061,10,2022-08-15,P011,Fitness Tracker,1,89.99,89.99,PayPal,Delivered
+1062,11,2022-08-18,P012,Smart Bulb,2,24.99,49.98,Credit Card,Delivered
+1063,12,2022-08-20,P013,External SSD,1,129.99,129.99,Debit Card,Delivered
+1064,13,2022-08-22,P014,Wireless Mouse,1,34.99,34.99,Credit Card,Delivered
+1065,14,2022-08-25,P015,Mechanical Keyboard,1,109.99,109.99,PayPal,Delivered
+1066,15,2022-08-28,P016,Monitor Stand,1,59.99,59.99,Credit Card,Delivered
+1067,16,2022-09-02,P017,Webcam,1,79.99,79.99,Debit Card,Delivered
+1068,17,2022-09-05,P018,Noise Cancelling Headphones,1,299.99,299.99,Credit Card,Delivered
+1069,18,2022-09-08,P019,Smart Plug,2,19.99,39.98,PayPal,Delivered
+1070,19,2022-09-10,P020,HDMI Cable,1,14.99,14.99,Credit Card,Delivered
+1071,20,2022-09-12,P021,Wireless Earbuds,1,129.99,129.99,Debit Card,Delivered
+1072,21,2022-09-15,P022,Portable Monitor,1,249.99,249.99,Credit Card,Delivered
+1073,22,2022-09-18,P023,Gaming Mouse,1,69.99,69.99,PayPal,Delivered
+1074,23,2022-09-20,P024,Laptop Sleeve,1,39.99,39.99,Credit Card,Delivered
+1075,24,2022-09-22,P025,USB Hub,1,29.99,29.99,Debit Card,Delivered
+1076,25,2022-09-25,P026,Wireless Keyboard,1,59.99,59.99,Credit Card,Delivered
+1077,26,2022-09-28,P027,Smart Scale,1,49.99,49.99,PayPal,Delivered
+1078,27,2022-10-02,P028,Desk Lamp,1,39.99,39.99,Credit Card,Delivered
+1079,28,2022-10-05,P029,Phone Mount,2,12.99,25.98,Debit Card,Delivered
+1080,29,2022-10-08,P030,Bluetooth Adapter,1,19.99,19.99,Credit Card,Delivered
+1081,30,2022-10-10,P031,External HDD,1,89.99,89.99,PayPal,Delivered
+1082,31,2022-10-12,P032,Wireless Presenter,1,29.99,29.99,Credit Card,Delivered
+1083,32,2022-10-15,P033,Smart Doorbell,1,199.99,199.99,Debit Card,Delivered
+1084,33,2022-10-18,P034,VR Headset,1,349.99,349.99,Credit Card,Delivered
+1085,34,2022-10-20,P035,Graphic Tablet,1,149.99,149.99,PayPal,Delivered
+1086,35,2022-10-22,P036,Docking Station,1,119.99,119.99,Credit Card,Delivered
+1087,36,2022-10-25,P037,Smart Thermostat,1,249.99,249.99,Debit Card,Delivered
+1088,37,2022-10-28,P038,Wireless Charging Pad,1,34.99,34.99,Credit Card,Delivered
+1089,38,2022-11-02,P039,Portable Speaker,1,79.99,79.99,PayPal,Delivered
+1090,39,2022-11-05,P040,Action Camera,1,199.99,199.99,Credit Card,Delivered
+1091,40,2022-11-08,P041,Smart Lock,1,229.99,229.99,Debit Card,Delivered
+1092,41,2022-11-10,P042,Electric Scooter,1,499.99,499.99,Credit Card,Delivered
+1093,42,2022-11-12,P043,Drone,1,399.99,399.99,PayPal,Delivered
+1094,43,2022-11-15,P044,3D Printer,1,799.99,799.99,Credit Card,Delivered
+1095,44,2022-11-18,P045,Robot Vacuum,1,299.99,299.99,Debit Card,Delivered
+1096,45,2022-11-20,P046,Smart Mirror,1,199.99,199.99,Credit Card,Delivered
+1097,46,2022-11-22,P047,Air Purifier,1,179.99,179.99,PayPal,Delivered
+1098,47,2022-11-25,P048,Smart Display,1,149.99,149.99,Credit Card,Delivered
+1099,48,2022-11-28,P049,Wireless Security Camera,1,129.99,129.99,Debit Card,Delivered
+1100,49,2022-12-02,P050,Fitness Smartwatch,1,179.99,179.99,Credit Card,Delivered
+1101,50,2022-12-05,P001,Wireless Headphones,1,99.99,99.99,PayPal,Delivered
+1102,1,2022-12-08,P002,Smart Watch,1,199.99,199.99,Credit Card,Delivered
+1103,2,2022-12-10,P003,Bluetooth Speaker,1,59.99,59.99,Debit Card,Delivered
+1104,3,2022-12-12,P004,Phone Case,1,19.99,19.99,Credit Card,Delivered
+1105,4,2022-12-15,P005,Wireless Charger,1,29.99,29.99,PayPal,Delivered
+1106,5,2022-12-18,P006,Tablet Stand,1,24.99,24.99,Credit Card,Delivered
+1107,6,2022-12-20,P007,USB-C Cable,2,9.99,19.98,Debit Card,Delivered
+1108,7,2022-12-22,P008,Power Bank,1,49.99,49.99,Credit Card,Delivered
+1109,8,2022-12-25,P009,Screen Protector,1,14.99,14.99,PayPal,Delivered
+1110,9,2022-12-28,P010,Earbuds,1,79.99,79.99,Credit Card,Delivered
+1111,10,2023-01-02,P011,Fitness Tracker,1,89.99,89.99,Debit Card,Delivered
+1112,11,2023-01-05,P012,Smart Bulb,1,24.99,24.99,Credit Card,Delivered
+1113,12,2023-01-08,P013,External SSD,1,129.99,129.99,PayPal,Delivered
+1114,13,2023-01-10,P014,Wireless Mouse,1,34.99,34.99,Credit Card,Delivered
+1115,14,2023-01-12,P015,Mechanical Keyboard,1,109.99,109.99,Debit Card,Delivered
+1116,15,2023-01-15,P016,Monitor Stand,1,59.99,59.99,Credit Card,Delivered
+1117,16,2023-01-18,P017,Webcam,1,79.99,79.99,PayPal,Delivered
+1118,17,2023-01-20,P018,Noise Cancelling Headphones,1,299.99,299.99,Credit Card,Delivered
+1119,18,2023-01-22,P019,Smart Plug,1,19.99,19.99,Debit Card,Delivered
+1120,19,2023-01-25,P020,HDMI Cable,1,14.99,14.99,Credit Card,Delivered
+1121,20,2023-01-28,P021,Wireless Earbuds,1,129.99,129.99,PayPal,Delivered
+1122,21,2023-02-02,P022,Portable Monitor,1,249.99,249.99,Credit Card,Delivered
+1123,22,2023-02-05,P023,Gaming Mouse,1,69.99,69.99,Debit Card,Delivered
+1124,23,2023-02-08,P024,Laptop Sleeve,1,39.99,39.99,Credit Card,Delivered
+1125,24,2023-02-10,P025,USB Hub,1,29.99,29.99,PayPal,Delivered
+1126,25,2023-02-12,P026,Wireless Keyboard,1,59.99,59.99,Credit Card,Delivered
+1127,26,2023-02-15,P027,Smart Scale,1,49.99,49.99,Debit Card,Delivered
+1128,27,2023-02-18,P028,Desk Lamp,1,39.99,39.99,Credit Card,Delivered
+1129,28,2023-02-20,P029,Phone Mount,1,12.99,12.99,PayPal,Delivered
+1130,29,2023-02-22,P030,Bluetooth Adapter,1,19.99,19.99,Credit Card,Delivered
+1131,30,2023-02-25,P031,External HDD,1,89.99,89.99,Debit Card,Delivered
+1132,31,2023-02-28,P032,Wireless Presenter,1,29.99,29.99,Credit Card,Delivered
+1133,32,2023-03-02,P033,Smart Doorbell,1,199.99,199.99,PayPal,Delivered
+1134,33,2023-03-05,P034,VR Headset,1,349.99,349.99,Credit Card,Delivered
+1135,34,2023-03-08,P035,Graphic Tablet,1,149.99,149.99,Debit Card,Delivered
+1136,35,2023-03-10,P036,Docking Station,1,119.99,119.99,Credit Card,Delivered
+1137,36,2023-03-12,P037,Smart Thermostat,1,249.99,249.99,PayPal,Delivered
+1138,37,2023-03-15,P038,Wireless Charging Pad,1,34.99,34.99,Credit Card,Delivered
+1139,38,2023-03-18,P039,Portable Speaker,1,79.99,79.99,Debit Card,Delivered
+1140,39,2023-03-20,P040,Action Camera,1,199.99,199.99,Credit Card,Delivered
+1141,40,2023-03-22,P041,Smart Lock,1,229.99,229.99,PayPal,Delivered
+1142,41,2023-03-25,P042,Electric Scooter,1,499.99,499.99,Credit Card,Delivered
+1143,42,2023-03-28,P043,Drone,1,399.99,399.99,Debit Card,Delivered
+1144,43,2023-04-02,P044,3D Printer,1,799.99,799.99,Credit Card,Delivered
+1145,44,2023-04-05,P045,Robot Vacuum,1,299.99,299.99,PayPal,Delivered
+1146,45,2023-04-08,P046,Smart Mirror,1,199.99,199.99,Credit Card,Delivered
+1147,46,2023-04-10,P047,Air Purifier,1,179.99,179.99,Debit Card,Delivered
+1148,47,2023-04-12,P048,Smart Display,1,149.99,149.99,Credit Card,Delivered
+1149,48,2023-04-15,P049,Wireless Security Camera,1,129.99,129.99,PayPal,Delivered
+1150,49,2023-04-18,P050,Fitness Smartwatch,1,179.99,179.99,Credit Card,Delivered
+1151,50,2023-04-20,P001,Wireless Headphones,1,99.99,99.99,Debit Card,Delivered
+1152,1,2023-04-22,P002,Smart Watch,1,199.99,199.99,Credit Card,Delivered
+1153,2,2023-04-25,P003,Bluetooth Speaker,1,59.99,59.99,PayPal,Delivered
+1154,3,2023-04-28,P004,Phone Case,1,19.99,19.99,Credit Card,Delivered
+1155,4,2023-05-02,P005,Wireless Charger,1,29.99,29.99,Debit Card,Delivered
+1156,5,2023-05-05,P006,Tablet Stand,1,24.99,24.99,Credit Card,Delivered
+1157,6,2023-05-08,P007,USB-C Cable,1,9.99,9.99,PayPal,Delivered
+1158,7,2023-05-10,P008,Power Bank,1,49.99,49.99,Credit Card,Delivered
+1159,8,2023-05-12,P009,Screen Protector,1,14.99,14.99,Debit Card,Delivered
+1160,9,2023-05-15,P010,Earbuds,1,79.99,79.99,Credit Card,Delivered
+1161,10,2023-05-18,P011,Fitness Tracker,1,89.99,89.99,PayPal,Delivered
+1162,11,2023-05-20,P012,Smart Bulb,1,24.99,24.99,Credit Card,Delivered
+1163,12,2023-05-22,P013,External SSD,1,129.99,129.99,Debit Card,Delivered
+1164,13,2023-05-25,P014,Wireless Mouse,1,34.99,34.99,Credit Card,Delivered
+1165,14,2023-05-28,P015,Mechanical Keyboard,1,109.99,109.99,PayPal,Delivered
+1166,15,2023-06-02,P016,Monitor Stand,1,59.99,59.99,Credit Card,Delivered
+1167,16,2023-06-05,P017,Webcam,1,79.99,79.99,Debit Card,Delivered
+1168,17,2023-06-08,P018,Noise Cancelling Headphones,1,299.99,299.99,Credit Card,Delivered
+1169,18,2023-06-10,P019,Smart Plug,1,19.99,19.99,PayPal,Delivered
+1170,19,2023-06-12,P020,HDMI Cable,1,14.99,14.99,Credit Card,Delivered
+1171,20,2023-06-15,P021,Wireless Earbuds,1,129.99,129.99,Debit Card,Delivered
+1172,21,2023-06-18,P022,Portable Monitor,1,249.99,249.99,Credit Card,Delivered
+1173,22,2023-06-20,P023,Gaming Mouse,1,69.99,69.99,PayPal,Delivered
+1174,23,2023-06-22,P024,Laptop Sleeve,1,39.99,39.99,Credit Card,Delivered
+1175,24,2023-06-25,P025,USB Hub,1,29.99,29.99,Debit Card,Delivered
+1176,25,2023-06-28,P026,Wireless Keyboard,1,59.99,59.99,Credit Card,Delivered
+1177,26,2023-07-02,P027,Smart Scale,1,49.99,49.99,PayPal,Delivered
+1178,27,2023-07-05,P028,Desk Lamp,1,39.99,39.99,Credit Card,Delivered
+1179,28,2023-07-08,P029,Phone Mount,1,12.99,12.99,Debit Card,Delivered
+1180,29,2023-07-10,P030,Bluetooth Adapter,1,19.99,19.99,Credit Card,Delivered
+1181,30,2023-07-12,P031,External HDD,1,89.99,89.99,PayPal,Delivered
+1182,31,2023-07-15,P032,Wireless Presenter,1,29.99,29.99,Credit Card,Delivered
+1183,32,2023-07-18,P033,Smart Doorbell,1,199.99,199.99,Debit Card,Delivered
+1184,33,2023-07-20,P034,VR Headset,1,349.99,349.99,Credit Card,Delivered
+1185,34,2023-07-22,P035,Graphic Tablet,1,149.99,149.99,PayPal,Delivered
+1186,35,2023-07-25,P036,Docking Station,1,119.99,119.99,Credit Card,Delivered
+1187,36,2023-07-28,P037,Smart Thermostat,1,249.99,249.99,Debit Card,Delivered
+1188,37,2023-08-02,P038,Wireless Charging Pad,1,34.99,34.99,Credit Card,Delivered
+1189,38,2023-08-05,P039,Portable Speaker,1,79.99,79.99,PayPal,Delivered
+1190,39,2023-08-08,P040,Action Camera,1,199.99,199.99,Credit Card,Delivered
+1191,40,2023-08-10,P041,Smart Lock,1,229.99,229.99,Debit Card,Delivered
+1192,41,2023-08-12,P042,Electric Scooter,1,499.99,499.99,Credit Card,Delivered
+1193,42,2023-08-15,P043,Drone,1,399.99,399.99,PayPal,Delivered
+1194,43,2023-08-18,P044,3D Printer,1,799.99,799.99,Credit Card,Delivered
+1195,44,2023-08-20,P045,Robot Vacuum,1,299.99,299.99,Debit Card,Delivered
+1196,45,2023-08-22,P046,Smart Mirror,1,199.99,199.99,Credit Card,Delivered
+1197,46,2023-08-25,P047,Air Purifier,1,179.99,179.99,PayPal,Delivered
+1198,47,2023-08-28,P048,Smart Display,1,149.99,149.99,Credit Card,Delivered
+1199,48,2023-09-02,P049,Wireless Security Camera,1,129.99,129.99,Debit Card,Delivered
+1200,49,2023-09-05,P050,Fitness Smartwatch,1,179.99,179.99,Credit Card,Delivered
